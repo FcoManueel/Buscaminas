@@ -7,6 +7,6 @@ Equipo de trabajo:
   Eduardo Acuña Yeomans
   Francisco Manuel Valle Ruiz
   Francisco Miguel Granillo
-  Jose Cuauhtemoc Moyron Higuera
+  Javier Isaac Montaño
   
 Universidad de Sonora, Lic. en Ciencias de la Computación, 2012.
